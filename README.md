@@ -7,23 +7,10 @@ Highly structured and detail-oriented engineer with a proven track record of del
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Operating Systems & Scripting -->
-![Linux](https://shields.io)
-![Bash/Shell](https://shields.io)
-![Python](https://shields.io)
-
-<!-- Cloud & Infrastructure -->
-![AWS](https://shields.io)
-![Terraform](https://shields.io)
-![Ansible](https://shields.io)
-
-<!-- Containers & Orchestration -->
-![Docker](https://shields.io)
-![Kubernetes](https://shields.io)
-
-<!-- CI/CD & Version Control -->
-![Git](https://shields.io)
-![GitHub Actions](https://shields.io)
+*   **Operating Systems & Scripting:** `Linux` | `Bash/Shell Scripting` | `Python`
+*   **Cloud & Infrastructure:** `AWS (Amazon Web Services)` | `Terraform (IaC)` | `Ansible`
+*   **Containers & Orchestration:** `Docker` | `Kubernetes`
+*   **CI/CD & Version Control:** `Git` | `GitHub Actions`
 
 ---
 
@@ -37,13 +24,7 @@ An end-to-end multi-tier microservices e-commerce application deployment.
 
 ---
 
-### 📈 GitHub Stats
-![Your GitHub Stats](https://vercel.app)
-
----
-
 ### 📫 Connect with me
-*   **LinkedIn:**  www.linkedin.com/in/naga-sai-prasanna-kopparthi
-
+*   **LinkedIn:** www.linkedin.com/in/naga-sai-prasanna-kopparthi
 
 *   **Email:** nagasaiprasannak@gmail.com
